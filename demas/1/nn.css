@@ -1,0 +1,73 @@
+body {
+    background-color: rgb(51, 0, 255);
+}
+
+.encuadro {
+    width: 900px;
+    height: 600px;
+    color: blueviolet;
+    background-color: white;
+    border: 3px solid black;
+    font-family: monospace;
+    font-size: 20px;
+    display: grid;
+    grid-template-columns:minmax();
+    gap: 15px;
+}
+
+.bt1 {
+    border: 2px solid black;
+    border-radius: 100px;
+    background-color: black;
+    color: rgb(148, 51, 201);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+}
+
+.inpout{
+    border: 2px solid black;
+    border-radius: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+.bt2 {
+    border: 2px solid black;
+    border-radius: 100px;
+    background-color: black;
+    color: rgb(148, 51, 201);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+}
+
+.inpout2{
+    border: 2px solid black;
+    border-radius: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+.bt3 {
+    border: 2px solid black;
+    border-radius: 100px;
+    background-color: black;
+    color: rgb(148, 51, 201);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+}
+
+.inpout3{
+    border: 2px solid black;
+    border-radius: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+.btnev {
+    border: 2px solid black;
+    border-radius: 100px;
+    background-color: black;
+    color: rgb(79, 201, 51);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+}
